@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i am CODE WITH MPT
 
 <!--
 **code-with-mpt/code-with-mpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,23 +16,16 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me:</h3>
 
-<div align="center">
 
-<a href="https://github.com/code-with-mpt?tab=repositories" target="_blank">
 
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<p align="left">
 
-<a href="https://youtube.com/channel/UC06I054Zvw9cEIGNW5L0doQ" target="_blank">
+<a href="https://www.youtube.com/c/https://youtube.com/channel/uc06i054zvw9ceignw5l0doq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc06i054zvw9ceignw5l0doq" height="30" width="40" /></a>
 
-<img src=https://img.shields.io/badge/youtube-%FF0211.svg?&style=for-the-badge&logo=youtube&logoColor=FF3000 style="margin-bottom: 5px;" />
+<a href="https://discord.gg/https://discord.gg/mJyw4Tet6Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mJyw4Tet6Y" height="30" width="40" /></a>
 
-</a
+</p>
 
-</a> href="https://discord.gg/q4RG9CvnXU" target="_blank">
-
-<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=Discord Server style="margin-bottom: 5px;" />
-
-</a>  
 
 </div
 
